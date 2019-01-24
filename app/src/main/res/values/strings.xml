@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Subnet Calculator</string>
+
+    <string name="hintbits">192.168.0.1</string>
+    <string name="hintmask">24</string>
+    <string name="hinta">Enter something to start.</string>
+    <string name="ld_address">192.168.0.1</string>
+    <string name="ld_netmask">255.255.255.0</string>
+    <string name="ld_wildcast">0.0.0.255</string>
+    <string name="ld_network">192.168.0.0</string>
+    <string name="ld_broadcast">192.168.0.255</string>
+    <string name="ld_hostmin">192.168.0.1</string>
+    <string name="ld_hostmax">192.168.0.254</string>
+    <string name="ld_totalhost">256</string>
+    <string name="ld_numberofhost">254</string>
+    <string name="ld_binarynetmask">11111111.11111111.11111111.00000000</string>
+    <string name="ld_ipclass">C</string>
+    <string name="ld_cirdnotation">/24</string>
+    <string name="ld_possiableIndex">0</string>
+
+    <string name="address_head">Address\n(Host/ Network)</string>
+    <string name="add_tail">Netmask</string>
+    <string name="button_go">Go</string>
+    <string name="address_first">Address</string>
+    <string name="network_two">Network</string>
+    <string name="hostmin_thr">HostMin</string>
+    <string name="hostmax_fou">HostMax</string>
+    <string name="broadcast_fiv">Broadcast</string>
+    <string name="total_six">Total_hosts</string>
+    <string name="num_sev">Number of Hosts: </string>
+    <string name="net_eig">Netmask: </string>
+    <string name="wild_nin">Wildcard: </string>
+    <string name="binet_ten">Binary netmask: </string>
+    <string name="ip_ele">IP Class: </string>
+    <string name="cidr_twi">CIDR Notation: </string>
+    <string name="possind_thir">Index of given list: </string>
+
+    <string name="class_tablelists">Class     1st Octet Decimal Range   Default Subnet Mask</string>
+    <string name="class_a">A      1 - 126*     255.0.0.0</string>
+    <string name="class_b">B      128 - 191    255.255.0.0</string>
+    <string name="class_c">C      192 - 223    255.255.255.0</string>
+    <string name="class_d">D      224 - 239    Reserved for Multicasting</string>
+
+
+</resources>
